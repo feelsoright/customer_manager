@@ -1,9 +1,9 @@
 package view
 
 import (
-	"com.feelsoright.capita_manager/model"
-	"com.feelsoright.capita_manager/service"
-	"com.feelsoright.capita_manager/utils"
+	"com.feelsoright.customer_manager/model"
+	"com.feelsoright.customer_manager/service"
+	"com.feelsoright.customer_manager/utils"
 	"fmt"
 )
 

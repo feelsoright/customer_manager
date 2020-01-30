@@ -1,8 +1,8 @@
 package main
 
 import (
-	"com.feelsoright.capita_manager/service"
-	"com.feelsoright.capita_manager/view"
+	"com.feelsoright.customer_manager/service"
+	"com.feelsoright.customer_manager/view"
 )
 
 func main() {

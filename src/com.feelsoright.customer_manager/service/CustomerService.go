@@ -1,7 +1,7 @@
 package service
 
 import (
-	"com.feelsoright.capita_manager/model"
+	"com.feelsoright.customer_manager/model"
 )
 
 // 客户增删改查service
